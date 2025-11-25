@@ -77,7 +77,7 @@
  1. Also create a web app and copy the config of webapp.
    ### Panel Setup
  1. You can use Github Pages , Firebase Hosting or any Hosting Website (except 000webhost) for hosting the panel.
- 1. Open [index.html](./WEB%20PANEL/index.html) File and from [line number 16](https://github.com/Th30neAnd0nly/AIRAVAT/blob/325ff0befec72a55c273e99a0e06059db9d599fb/WEB%20PANEL/index.html#L16) replace the config with your web app config which you have created on Step 6.
+ 1. Open index.html File and from line number 16 replace the config with your web app config which you have created on Step 6.
  1. Save the file , Your Panel Setup is completed.
  ### VICTIM RAT
  1. Download Rat
