@@ -40,7 +40,7 @@
     - Auto Starts when any notification arrives
  - No port forwarding needed
 
-<img align=center src=./.github/img.jpg >
+<img align=center src=https://github.com/Saikohackerteamrm/SAIKO_RAT/blob/main/FUCK%20YOU/IMAGE/20251125_120720.jpg>
 
 
 ## Requirements
